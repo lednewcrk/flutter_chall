@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81IA2QQC7-L.jpg",
+    "name": "Rick and Morty"
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://m.media-amazon.com/images/I/61eaXqifQaL.jpg",
+    "name": "One Piece"
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://presleyson.com.br/wp-content/uploads/2018/12/breaking-bad-1200x630-min.png",
+    "name": "Breaking Bad"
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://lojasaraiva.vteximg.com.br/arquivos/ids/2611292/1008020098.jpg?v=637019846875930000",
+    "name": "Hunter x Hunter"
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg",
+    "name": "Brooklyn Nine-Nine"
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a6/How_I_Met_Your_Mother_DVD-9.jpg/200px-How_I_Met_Your_Mother_DVD-9.jpg",
+    "name": "How I Meet Your Mother"
+  }
+]
